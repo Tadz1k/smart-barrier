@@ -1,0 +1,5 @@
+train: ../plate_training/dataset/images
+val: ../plate_training/dataset/images
+
+nc: 1
+names: ['plate']
