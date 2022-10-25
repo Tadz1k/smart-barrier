@@ -7,4 +7,4 @@ The project uses YOLOv7 algorithms and an OCR system to locate and read the vehi
 ## Plate detection
 
 
-![schema]([Images/example.png](https://i.imgur.com/F3zGBj7.png))
+![schema]([https://i.imgur.com/F3zGBj7.png](https://i.imgur.com/F3zGBj7.png))
